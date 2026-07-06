@@ -70,7 +70,7 @@ The system sends a notification to Truck 1 when the bin reaches 75% capacity.
 ### 🔴 4. 95% Critical Alert
 A critical alert is generated and all available garbage collectors are notified.
 
-![95% Alert](Critical_95_Percent.png)
+![95% Alert](Alert_95_Percent.png)
 
 ---
 
